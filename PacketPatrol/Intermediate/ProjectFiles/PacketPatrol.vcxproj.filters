@@ -11,6 +11,7 @@
     <None Include="..\..\Source\PacketPatrolEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -25,6 +26,18 @@
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
     </None>
     <Filter Include="Source\PacketPatrol">
       <UniqueIdentifier>{3ED7A1C8-A377-30F6-9EF2-57C13C4C6F82}</UniqueIdentifier>
@@ -42,6 +55,12 @@
       <Filter>Source\PacketPatrol</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\PacketPatrol\PacketPatrolGameModeBase.h">
+      <Filter>Source\PacketPatrol</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PacketPatrol\PacketSpawnComponent.cpp">
+      <Filter>Source\PacketPatrol</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PacketPatrol\PacketSpawnComponent.h">
       <Filter>Source\PacketPatrol</Filter>
     </ClInclude>
   </ItemGroup>

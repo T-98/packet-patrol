@@ -16,11 +16,15 @@
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/Effects/NE_LaserImpact.uasset",
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/Effects/NS_Laser_System.uasset",
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/Effects/NS_LaserImpact_System.uasset",
-				"D:/code/Github/packet-patrol/PacketPatrol/Content/FS_MasterField1.uasset",
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/FS_DamageField.uasset",
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/GC_Cube.uasset",
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/Blueprints/BP_GC_Packet.uasset",
+				"D:/code/Github/packet-patrol/PacketPatrol/Content/Blueprints/BP_Packet.uasset",
+				"D:/code/Github/packet-patrol/PacketPatrol/Content/Blueprints/FS_DamageField.uasset",
+				"D:/code/Github/packet-patrol/PacketPatrol/Content/Blueprints/BP_PacketSpawner.uasset",
+				"D:/code/Github/packet-patrol/PacketPatrol/Content/Blueprints/BP_Trigger.uasset",
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/BP_Packet.uasset",
+				"D:/code/Github/packet-patrol/PacketPatrol/Content/FS_MasterField1.uasset",
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/Effects/NE_Laser_System.uasset",
 				"D:/code/Github/packet-patrol/PacketPatrol/Content/Effects/NE_LaserImpact_System.uasset"
 			]
