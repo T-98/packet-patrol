@@ -11,6 +11,7 @@
     <None Include="..\..\Source\PacketPatrolEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
     <None Include="..\..\.vsconfig" />
     <None Include="..\..\Apartment.png" />
     <Filter Include="Config">
