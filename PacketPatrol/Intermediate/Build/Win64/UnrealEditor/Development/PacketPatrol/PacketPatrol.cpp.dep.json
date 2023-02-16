@@ -1,12 +1,12 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "e:\\github\\harvest\\packet-patrol\\packetpatrol\\source\\packetpatrol\\packetpatrol.cpp",
+        "Source": "n:\\packet-patrol\\packetpatrol\\source\\packetpatrol\\packetpatrol.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\github\\harvest\\packet-patrol\\packetpatrol\\intermediate\\build\\win64\\packetpatroleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "n:\\packet-patrol\\packetpatrol\\intermediate\\build\\win64\\packetpatroleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "e:\\github\\harvest\\packet-patrol\\packetpatrol\\intermediate\\build\\win64\\unrealeditor\\development\\packetpatrol\\definitions.packetpatrol.h",
-            "e:\\github\\harvest\\packet-patrol\\packetpatrol\\source\\packetpatrol\\packetpatrol.h"
+            "n:\\packet-patrol\\packetpatrol\\intermediate\\build\\win64\\unrealeditor\\development\\packetpatrol\\definitions.packetpatrol.h",
+            "n:\\packet-patrol\\packetpatrol\\source\\packetpatrol\\packetpatrol.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

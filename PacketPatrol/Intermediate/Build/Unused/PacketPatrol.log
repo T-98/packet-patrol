@@ -1,6 +1,5 @@
-﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" PacketPatrolEditor Win64 Development -Project="E:\GitHub\Harvest\packet-patrol\PacketPatrol\PacketPatrol.uproject" -WaitMutex -FromMsBuild
-  Log file: C:\Users\Jan\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (E:\GitHub\Harvest\packet-patrol).
-  Creating makefile for PacketPatrolEditor (no existing makefile)
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" PacketPatrolEditor Win64 Development -Project="N:\packet-patrol\PacketPatrol\PacketPatrol.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\Owner\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (N:\packet-patrol).
   Target is up to date
-  Total execution time: 1.73 seconds
+  Total execution time: 0.94 seconds
