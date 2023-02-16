@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "PacketPatrol",
-			"Path": "N:\\packet-patrol\\PacketPatrol\\Source\\PacketPatrol.Target.cs",
+			"Path": "E:\\GitHub\\Harvest\\packet-patrol\\PacketPatrol\\Source\\PacketPatrol.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "PacketPatrolEditor",
-			"Path": "N:\\packet-patrol\\PacketPatrol\\Source\\PacketPatrolEditor.Target.cs",
+			"Path": "E:\\GitHub\\Harvest\\packet-patrol\\PacketPatrol\\Source\\PacketPatrolEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
