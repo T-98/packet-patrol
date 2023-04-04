@@ -1,4 +1,4 @@
-E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Inc\PacketPatrol\UHT\PacketSpawnComponent.gen.cpp
+C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Inc\PacketPatrol\UHT\PacketSpawnComponent.gen.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
@@ -269,22 +269,23 @@ E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEdit
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Inc\PacketPatrol\UHT
-/I E:\GitHub\Harvest\packet-patrol\PacketPatrol\Source
-/I ThirdParty\mimalloc\include
-/I ThirdParty\LibTiff\Source\Win64
-/I ThirdParty\LibTiff\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\PacketPatrolEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Development\PacketPatrol\Definitions.PacketPatrol.h"
-/Yu"E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\PacketPatrolEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\PacketPatrolEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Development\PacketPatrol\PacketSpawnComponent.gen.cpp.obj"
-/sourceDependencies E:\GitHub\Harvest\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Development\PacketPatrol\PacketSpawnComponent.gen.cpp.dep.json
+/I C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Inc\PacketPatrol\UHT
+/I C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Source
+/external:W0
+/external:I ThirdParty\mimalloc\include
+/external:I ThirdParty\LibTiff\Source\Win64
+/external:I ThirdParty\LibTiff\Source
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/FI"C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Intermediate\Build\Win64\PacketPatrolEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Development\PacketPatrol\Definitions.PacketPatrol.h"
+/Yu"C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Intermediate\Build\Win64\PacketPatrolEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Intermediate\Build\Win64\PacketPatrolEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Development\PacketPatrol\PacketSpawnComponent.gen.cpp.obj"
+/sourceDependencies C:\Users\khemb\Documents\GitHub\packet-patrol\PacketPatrol\Intermediate\Build\Win64\UnrealEditor\Development\PacketPatrol\PacketSpawnComponent.gen.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

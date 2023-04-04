@@ -1,17 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\code\\github\\packet-patrol\\packetpatrol\\source\\packetpatrol\\packetpatrolgamemodebase.cpp",
+        "Source": "c:\\users\\khemb\\desktop\\packetpatrol\\source\\packetpatrol\\packetpatrolgamemodebase.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\code\\github\\packet-patrol\\packetpatrol\\intermediate\\build\\win64\\packetpatroleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\khemb\\desktop\\packetpatrol\\intermediate\\build\\win64\\packetpatroleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "d:\\code\\github\\packet-patrol\\packetpatrol\\intermediate\\build\\win64\\unrealeditor\\development\\packetpatrol\\definitions.packetpatrol.h",
-            "d:\\code\\github\\packet-patrol\\packetpatrol\\source\\packetpatrol\\packetpatrolgamemodebase.h",
-            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
-            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
-            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
-            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "d:\\code\\github\\packet-patrol\\packetpatrol\\intermediate\\build\\win64\\unrealeditor\\inc\\packetpatrol\\uht\\packetpatrolgamemodebase.generated.h"
+            "c:\\users\\khemb\\desktop\\packetpatrol\\intermediate\\build\\win64\\unrealeditor\\development\\packetpatrol\\definitions.packetpatrol.h",
+            "c:\\users\\khemb\\desktop\\packetpatrol\\source\\packetpatrol\\packetpatrolgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\khemb\\desktop\\packetpatrol\\intermediate\\build\\win64\\unrealeditor\\inc\\packetpatrol\\uht\\packetpatrolgamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
