@@ -40,7 +40,7 @@ void UPacketSpawnComponent::StartListeningPort()
 	//NetworkTraffic.
 }
 
-const FString& UPacketSpawnComponent::Choose(const TMap<FString, double>& WeightMap)const
+const FString& UPacketSpawnComponent::Choose(const TMap<FString, double>& WeightMap, int PacketNum)const
 {
 	double sum = 0;
 
@@ -50,7 +50,10 @@ const FString& UPacketSpawnComponent::Choose(const TMap<FString, double>& Weight
 	}
 
 	check(0. < sum);
-	double r = FMath::RandRange(0., sum);
+
+	//float noise =  FMath::PerlinNoise1D(PacketNum * 1.5);
+	//double r = (noise+1) * sum / 2;
+	double r = FMath::RandRange(0. , sum);
 	double so_far = 0.;
 
 	for(const auto &[item, weight]: WeightMap)

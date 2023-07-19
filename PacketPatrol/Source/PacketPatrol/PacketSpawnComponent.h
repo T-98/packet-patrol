@@ -28,5 +28,5 @@ public:
 		void StartListeningPort();
 
 	UFUNCTION(BlueprintCallable)
-		const FString& Choose(const TMap<FString, double>& WeightMap) const;
+		const FString& Choose(const TMap<FString, double>& WeightMap, int PacketNum) const;
 };
