@@ -3368,6 +3368,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(ProjectDir)/Thirdparty/FMOD/Libraries/Win64/fmod.dll",
+			"Type": "NonUFS"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/ARM/Win64/astcenc-sse2.exe",
 			"Type": "NonUFS"
 		},
