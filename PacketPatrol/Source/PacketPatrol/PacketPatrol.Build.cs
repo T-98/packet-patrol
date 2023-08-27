@@ -16,10 +16,10 @@ public class PacketPatrol : ModuleRules
 		var basePath = Path.GetDirectoryName(RulesCompiler.GetFileNameFromType(GetType()));
 		string thirdPartyPath = Path.Combine(basePath, "..", "..", "Thirdparty");
 
-		PublicIncludePaths.Add(Path.Combine(thirdPartyPath, "FMOD", "Includes"));
+		//PublicIncludePaths.Add(Path.Combine(thirdPartyPath, "FMOD", "Includes"));
 
 
-        if (Target.Platform == UnrealTargetPlatform.Win64)
+        /*if (Target.Platform == UnrealTargetPlatform.Win64)
         {
                 PublicAdditionalLibraries.Add(Path.Combine(thirdPartyPath, "FMOD", "Libraries", "Win64","fmod_vc.lib"));
                 string fmodDllPath = Path.Combine(thirdPartyPath, "FMOD", "Libraries", "Win64", "fmod.dll");
@@ -41,7 +41,8 @@ public class PacketPatrol : ModuleRules
         else
         {
                 throw new System.Exception(System.String.Format("Unsupported platform {0}", Target.Platform.ToString()));
-        }
+        }*/
+
 		// Uncomment if you are using Slate UI
 		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
 		
@@ -51,7 +52,7 @@ public class PacketPatrol : ModuleRules
 		// To include OnlineSubsystemSteam, add it to the plugins section in your uproject file with the Enabled attribute set to true
 	}
 
-	private void CopyFile(string source, string dest)
+	/*private void CopyFile(string source, string dest)
     {
         System.Console.WriteLine("Copying {0} to {1}", source, dest);
         if (System.IO.File.Exists(dest))
@@ -66,5 +67,5 @@ public class PacketPatrol : ModuleRules
         {
             System.Console.WriteLine("Failed to copy file: {0}", ex.Message);
         }
-    }
+    }*/
 }
